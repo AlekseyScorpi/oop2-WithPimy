@@ -1,0 +1,6 @@
+print("Hello")
+print("I'm a lost program in this Internet")
+print("I wanna be friendly")
+print("Can you tell me your name?")
+name = input()
+print(f"Wow, nice to meet you {name}")
